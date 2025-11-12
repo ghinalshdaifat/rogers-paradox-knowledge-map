@@ -43,7 +43,7 @@ We implement and compare three AI learning strategies:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/rogers-paradox-knowledge-map.git
+git clone https://github.com/ghinalshdaifat/rogers-paradox-knowledge-map.git
 cd rogers-paradox-knowledge-map
 ```
 
@@ -252,7 +252,7 @@ If you use this code in your research, please cite:
   title={Revisiting Rogers' Paradox on a Branching Knowledge Map: The Trade-Off Between Mastery Speed and Collective Innovation},
   author={Al Shdaifat, Ghina and Patel, Maitri and Attri, Jeevesh},
   institution={New York University, Center for Data Science},
-  year={2024}
+  year={2025}
 }
 ```
 
